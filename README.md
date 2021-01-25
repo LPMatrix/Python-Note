@@ -25,8 +25,8 @@ This resource is for anyone who want to learn the python programming language, I
 * Classes and objects		
 * Regex	
 ## Part V
-* Working with databases
 * Building APIs
+* Working with databases
 
 ## Requirement
 Access to internet-enabled computer
