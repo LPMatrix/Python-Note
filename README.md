@@ -10,7 +10,7 @@ This resource is for anyone who want to learn the python programming language, I
 
 ## Part I
 * Introduction
-* Python literals
+* Keywords and Identifiers
 * Operators
 * Variables
 ## Part II
