@@ -57,7 +57,17 @@ Access to internet-enabled computer
 ### Week 12
 * Capstone Project
 
-| Syntax      | Description |
+| Week      | Task |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Week 1    | Title       |
+| Week 2    | Text        |
+| Week 3    | Text        |
+| Week 4    | Text        |
+| Week 5    | Text        |
+| Week 6    | Text        |
+| Week 7    | Text        |
+| Week 8    | Text        |
+| Week 9    | Text        |
+| Week 10   | Text        |
+| Week 11   | * Capstone Project        |
+| Week 12   | * Capstone Project        |
