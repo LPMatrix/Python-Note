@@ -32,42 +32,18 @@ This resource is for anyone who want to learn the python programming language, I
 Access to internet-enabled computer
 
 ## 3 Months Plan
-### Week 1
-* Part I
-### Week 2
-* Part II
-### Week 3
-* Part II
-### Week 4
-* Part III
-### Week 5
-* Part III
-### Week 6
-* Part IV
-### Week 7
-* Part IV
-### Week 8
-* Part V
-### Week 9
-* Part V
-### Week 10
-* Capstone Project
-### Week 11
-* Capstone Project
-### Week 12
-* Capstone Project
 
 | Week      | Task |
 | ----------- | ----------- |
-| Week 1    | Title       |
-| Week 2    | Text        |
-| Week 3    | Text        |
-| Week 4    | Text        |
-| Week 5    | Text        |
-| Week 6    | Text        |
-| Week 7    | Text        |
-| Week 8    | Text        |
-| Week 9    | Text        |
-| Week 10   | Text        |
-| Week 11   | * Capstone Project        |
-| Week 12   | * Capstone Project        |
+| Week 1    | Part I       |
+| Week 2    | Part II        |
+| Week 3    | Part II        |
+| Week 4    |  Part III        |
+| Week 5    |  Part III        |
+| Week 6    | Part IV        |
+| Week 7    | Part IV        |
+| Week 8    | Part V        |
+| Week 9    | Part V        |
+| Week 10   | Capstone Project     |
+| Week 11   | Capstone Project     |
+| Week 12   | Capstone Project     |
