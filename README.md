@@ -56,3 +56,8 @@ Access to internet-enabled computer
 * Capstone Project
 ### Week 12
 * Capstone Project
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
