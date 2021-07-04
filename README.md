@@ -10,41 +10,12 @@ This resource is for anyone who want to learn the python programming language, I
 
 | Part      | Tasks |
 | ----------- | ----------- |
-| Part I    |Introduction
-             Keywords and Identifiers
-             Operators
-             Variables      |
-| Part II   | Part II        |
-| Part III  | Part II        |
-| Part IV   |  Part III        |
-| Part V    |  Part III        |
-| Week 6    | Part IV        |
-| Week 7    | Part IV        |
-| Week 8    | Part V        |
-| Week 9    | Part V        |
-| Week 10   | Capstone Project     |
-| Week 11   | Capstone Project     |
-| Week 12   | Capstone Project     |
+| Part I    | Introduction <br /> Keywords and Identifiers Operators <br />  Variables |
+| Part II   | DataTypes <br/> Flow Control <br/> Simple python programs        |
+| Part III  | Functions <br/> File IO <br/> Modules and packages        |
+| Part IV   | Classes and objects	<br/> Regex        |
+| Part V    | Building APIs <br/> Working with databases        |
 
-## Part I
-* Introduction
-* Keywords and Identifiers
-* Operators
-* Variables
-## Part II
-* DataTypes
-* Flow Control
-* Simple python programs
-## Part III
-* Functions
-* File IO
-* Modules and packages
-## Part IV			
-* Classes and objects		
-* Regex	
-## Part V
-* Building APIs
-* Working with databases
 
 ## Requirement
 Access to internet-enabled computer
