@@ -8,6 +8,24 @@ This resource is for anyone who want to learn the python programming language, I
 * Interact with REST APIs using Python and build a currency converter!
 * Create secure and reliable REST APIs which include authentication, logging, caching, and more
 
+| Part      | Tasks |
+| ----------- | ----------- |
+| Part I    |Introduction
+             Keywords and Identifiers
+             Operators
+             Variables      |
+| Part II   | Part II        |
+| Part III  | Part II        |
+| Part IV   |  Part III        |
+| Part V    |  Part III        |
+| Week 6    | Part IV        |
+| Week 7    | Part IV        |
+| Week 8    | Part V        |
+| Week 9    | Part V        |
+| Week 10   | Capstone Project     |
+| Week 11   | Capstone Project     |
+| Week 12   | Capstone Project     |
+
 ## Part I
 * Introduction
 * Keywords and Identifiers
