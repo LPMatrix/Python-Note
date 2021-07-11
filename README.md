@@ -5,8 +5,8 @@ This resource is for anyone who want to learn the python programming language, I
 * From foundations to expert, learn about every major Python topic, working with Python 3.
 * Master Object-Oriented Programming and structure your Python programs like a professional.
 * Understand how databases work and how to take advantage of their features.
-* Interact with REST APIs using Python and build a currency converter!
-* Create secure and reliable REST APIs which include authentication, logging, caching, and more
+* Interact with REST APIs using Python and build a blog!
+* Create secure and reliable REST API which include authentication, CRUD (Create, Read, Update and Delete)
 
 | Part      | Tasks |
 | ----------- | ----------- |
